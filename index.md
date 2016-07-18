@@ -5,5 +5,6 @@ layout: default
 
 ## GitHub can be used by anybody
 
-**WHoop Whoop**
+**Whoop Whoop**
+
 *Hello*
