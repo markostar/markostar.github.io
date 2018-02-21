@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=og8nQnH3ikY
 Video / Keynote / Vienna WeAreDevelopers Conference
 https://www.youtube.com/watch?v=Q-boe_4Np4A
 
+Keynote Video Codefest Russia Novosibirst:
+https://www.youtube.com/watch?v=7oSczTt9uBg
