@@ -3,7 +3,7 @@ title: List of Talks
 layout: default
 ---
 
-# markostar.github.io
+# Marko Berkovic
 Recordings of talks
 
 **Interviews:**
