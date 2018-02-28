@@ -15,6 +15,6 @@ Various video recordings of talks
 **Keynotes**
 
 * [Keynote / Video / the DevOpsCon / Miniuch ](https://vimeo.com/209522150)
-* [Keynote / Video / Codefest / Novosibirsk:](https://www.youtube.com/watch?v=7oSczTt9uBg)
+* [Keynote / Video / Codefest / Novosibirsk](https://www.youtube.com/watch?v=7oSczTt9uBg)
 * [Keynote / Video / WeAreDevelopers Conference / Vienna](https://www.youtube.com/watch?v=Q-boe_4Np4A)
 
