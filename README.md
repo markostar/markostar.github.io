@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=og8nQnH3ikY
 Keynote at the DevOpsCon Miniuch 
 https://vimeo.com/209522150
 
-Keynote Video Codefest Russia Novosibirst:
+Keynote Video Codefest Russia Novosibirsk:
 https://www.youtube.com/watch?v=7oSczTt9uBg
 
 Video / Keynote / Vienna WeAreDevelopers Conference
